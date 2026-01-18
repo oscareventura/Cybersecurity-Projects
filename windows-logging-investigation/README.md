@@ -26,5 +26,7 @@ Event IDs observed
 Summary
 
 -Event viewer logs all local security-related actions
+
 -Event Ids help correlate system events with attacker or admin behavior
+
 -Amazing starting point for blue team investigations.
