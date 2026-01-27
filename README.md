@@ -9,11 +9,15 @@ I created this repository to showcase my skills, track my learning, and share wh
 ## 🧰 Tools & Platforms I Work With
 
 - Windows 11 VM (lab environment)
+- Windows 10 VM (lab environment)
+- Windows Server Manager VM
 - VirtualBox for virtualization
 - Event Viewer, Sysmon for endpoint logging
 - Splunk (SIEM)
 - PowerShell, CMD
 - MITRE ATT&CK Framework
+- Social-Engineer Toolset
+- Zenmap
 - GitHub for documentation
 
 ---
@@ -27,6 +31,16 @@ I created this repository to showcase my skills, track my learning, and share wh
 - Simulated local user creation and logins
 - Mapped activity to potential attack techniques
 - [View Project Folder ➜](./windows-logging-investigation)
+
+### Using Zenmap to scan open ports
+> Explore Zenmap and use different nmap commands to scan for open ports.
+
+- Used ping scan to show live addresses
+- Used an intensive scan to identify open ports, services, versions, and OS
+- Used an intensive scan with no ping to force scan to complete even with firewall interruption
+- Used an intensive scan with no ping on an entire subnet
+- Used quick traceroute to help visualize the topology of the network
+-  [View Project Folder ➜](./network-scanning-with-nmap)
 
 ---
 
